@@ -71,6 +71,52 @@ Game logic: turn handling, score tracking, win detection
 
 Object-oriented design and encapsulation
 
+Pokemon-Match-Cards-Java/
+├── src/
+
+│   ├── MatchCards.java
+
+│   └── App.java
+
+├── resources/
+
+│   ├── img/
+
+│   │   ├── back.jpg
+
+│   │   ├── darkness.jpg
+
+│   │   ├── double.jpg
+
+│   │   ├── fairy.jpg
+
+│   │   ├── fighting.jpg
+
+│   │   ├── fire.jpg
+
+│   │   ├── grass.jpg
+
+│   │   ├── lightning.jpg
+
+│   │   ├── metal.jpg
+
+│   │   ├── psychic.jpg
+
+│   │   └── water.jpg
+
+│   └── sounds/
+
+│       ├── flipcard.wav
+
+│       ├── correct.wav
+
+│       └── error.wav
+
+├── .gitignore
+
+├── README.md
+
+
 🖼️ Sample GUI Screenshot
 ![Screenshot 2025-06-11 105052](https://github.com/user-attachments/assets/5b981f1b-11f4-4483-a16e-c1ecc9f91800)
 
