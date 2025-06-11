@@ -120,3 +120,10 @@ Pokemon-Match-Cards-Java/
 🖼️ Sample GUI Screenshot
 ![Screenshot 2025-06-11 105052](https://github.com/user-attachments/assets/5b981f1b-11f4-4483-a16e-c1ecc9f91800)
 
+🖼️ Sample GUI Video
+
+https://github.com/user-attachments/assets/deca1206-3582-4950-ad21-f47cb26a599d
+
+https://github.com/user-attachments/assets/6b46550f-2062-45ed-af7f-fcb7b4e6b484
+
+
