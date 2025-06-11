@@ -82,35 +82,35 @@ Pokemon-Match-Cards-Java/
 
 │   ├── img/
 
-│   │   ├── back.jpg
+│   │    ├── back.jpg
 
-│   │   ├── darkness.jpg
+│   │    ├── darkness.jpg
 
-│   │   ├── double.jpg
+│   │    ├── double.jpg
 
-│   │   ├── fairy.jpg
+│   │    ├── fairy.jpg
 
-│   │   ├── fighting.jpg
+│   │    ├── fighting.jpg
 
-│   │   ├── fire.jpg
+│   │    ├── fire.jpg
 
-│   │   ├── grass.jpg
+│   │    ├── grass.jpg
 
-│   │   ├── lightning.jpg
+│   │    ├── lightning.jpg
 
-│   │   ├── metal.jpg
+│   │    ├── metal.jpg
 
-│   │   ├── psychic.jpg
+│   │    ├── psychic.jpg
 
-│   │   └── water.jpg
+│   │    └── water.jpg
 
 │   └── sounds/
 
-│       ├── flipcard.wav
+│        ├── flipcard.wav
 
-│       ├── correct.wav
+│        ├── correct.wav
 
-│       └── error.wav
+│        └── error.wav
 
 ├── .gitignore
 
